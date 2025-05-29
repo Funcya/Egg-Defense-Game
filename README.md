@@ -2,7 +2,7 @@ This is a university project developed as part of a group assignment. The task w
 
 To run the game, use the terminal command: ./mittspel.exe
 
-You can find a short trailer of the game below. Please note that the video is compressed due to GitHub’s 10MB file size limit.
+You can find a short trailer of the game with sound below. Please note that the video is compressed due to GitHub’s 10MB file size limit.
 
 
 
