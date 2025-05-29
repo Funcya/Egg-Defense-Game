@@ -4,7 +4,9 @@ This is a university project developed as part of a group assignment. The task w
 The project is organized into three main directories:
 
 src/: contains all C source files
+
 include/: contains all header (.h) files
+
 resources/: contains all game assets such as sounds and images
 
 
