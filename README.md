@@ -10,7 +10,7 @@ include/: contains all header (.h) files
 resources/: contains all game assets such as sounds and images
 
 
-
+-------------------------
 
 To run the game, use the terminal command: ./mittspel.exe
 
