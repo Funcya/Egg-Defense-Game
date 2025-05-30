@@ -13,7 +13,7 @@ resources/: contains all game assets such as sounds and images
 -------------------------
 The result is a tower defense game, where players defend against waves of enemies (snakes). 
 The game supports both 2v2 multiplayer and single-player offline modes. 
-It was inspired by the popular Bloons Tower Defense series
+It was inspired by the popular Bloons Tower Defense series.
 
 ---------------------------------------------------------------------------------------------------------
 
